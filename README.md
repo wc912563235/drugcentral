@@ -16,8 +16,8 @@ drugcentral简介，DrugCentral 是新墨西哥大学转化信息学系与 IDG �
 ![image](https://user-images.githubusercontent.com/48423282/222997056-2d802342-0227-43db-869e-63b17d168e2f.png)
 ![image](https://user-images.githubusercontent.com/48423282/222997072-ffe24a3b-f96b-4c70-84c4-7291905e869b.png)
 
-# 数据构成
-数据由drug，target两种种类构成，如下图所示，drug和target分别又具有多种属性信息，数据库中还包含了实验信息。
-![image](https://user-images.githubusercontent.com/48423282/222997188-63868863-07a0-4b99-aa4d-17c156c5bd51.png)
+# 数据结果
+数据由drug，target两种种类构成，如下图所示，drug和target分别又具有多种属性信息，数据库中还包含了act,moa信息。
+![image](https://user-images.githubusercontent.com/48423282/222998532-ad3c94cf-6576-422c-a24b-1770397d6355.png)
 
 

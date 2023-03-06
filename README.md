@@ -1,5 +1,5 @@
 # 简介
-为了导入药物数据进入nebula graph，并构建知识图谱，需要将公开的药物数据处理为指定格式的csv。
+为了构建知识图谱，并导入药物数据进入nebula graph，需要将公开的药物数据处理为指定格式的csv。
 
 # 数据处理
 如图所示，将主要数据文件interaction.tsv进行信息提取后，添加approved和smiles信息，最后更改列名id，src—id
